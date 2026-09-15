@@ -118,10 +118,10 @@ and `src/.env.example` for optional watsonx.ai credentials.
 
 | Artifact | Link |
 |---|---|
-| 📹 Demo Video | [See demo/demo-video-link.txt](demo/demo-video-link.txt) |
-| 🌐 Live Demo | [See demo/live-demo-url.txt](demo/live-demo-url.txt) |
-| 🖼️ Screenshots | [See demo/screenshots/](demo/screenshots/) |
-| 📊 Presentation | [See presentation/slides.pdf](presentation/) |
+| 📹 Demo Video | [See demo/demo-video-link.txt]("C:\Users\AKSHA\Downloads\bob-ai-hackathon-L2-starter\demovideo\Video.mp4") |
+| 🌐 Live Demo | [See demo/live-demo-url.txt](not deployed) |
+| 🖼️ Screenshots | [See demo/screenshots/]("C:\Users\AKSHA\Downloads\bob-ai-hackathon-L2-starter\screenshots") |
+| 📊 Presentation | [See presentation/slides.pdf]("C:\Users\AKSHA\Downloads\bob-ai-hackathon-L2-starter\presentation\slides.pptx"/) |
 
 ---
 
